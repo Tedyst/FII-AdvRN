@@ -1,0 +1,1 @@
+In order to run hw1.py, you just need to open it and run it.
